@@ -15,3 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![fcarl's stats](https://badge42.herokuapp.com/api/stats/fcarl)
+
+Eng
+
+Student at school 21 (7 months).
+
+I know C
+
+Learning Unreal Engine
+
+Learning C++
+
+Learning OOP
+
+github: https://github.com/lex-cmd
+
+During his entire time at school, he wrote one graphic project, a prototype of a game for a school project and a game for a game jam.
+
+Participated in gamejams, took 3rd place in the last gamejam. https://github.com/lex-cmd/RGcube
+
+Ru
+Студент в школе 21 (7 месяцев).
+
+Знаю C
+
+Изучаю  Unreal Engine
+
+Изучаю C++
+
+Изучаю ООП
+
+github: https://github.com/lex-cmd
+
+За всё время обучения в школе 21 написал один графический проект, прототип игры для школьного проекта и игру для геймджема.
+
+Участвовал в геймджемах, в последнем геймджеме занял 3 место. https://github.com/lex-cmd/RGcube
