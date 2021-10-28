@@ -35,6 +35,7 @@ During his entire time at school, he wrote one graphic project, a prototype of a
 Participated in gamejams, took 3rd place in the last gamejam. https://github.com/lex-cmd/RGcube
 
 Ru
+
 Студент в школе 21 (7 месяцев).
 
 Знаю C
