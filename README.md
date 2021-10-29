@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Ru
 
-Студент в школе 21 (7 месяцев).
+Студент в школе 21.
 
 Знаю C
 
