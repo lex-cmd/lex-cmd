@@ -24,10 +24,6 @@ Ru
 
 Изучаю  Unreal Engine
 
-Изучаю C++
-
-Изучаю ООП
-
 За всё время обучения в школе 21 написал один графический проект, прототип игры для школьного проекта и игру для геймджема.
 
 Участвовал в геймджемах, в последнем геймджеме занял 3 место. https://github.com/lex-cmd/RGcube
@@ -39,10 +35,6 @@ Student at school 21 (7 months).
 I know C
 
 Learning Unreal Engine
-
-Learning C++
-
-Learning OOP
 
 During his entire time at school, he wrote one graphic project, a prototype of a game for a school project and a game for a game jam.
 
