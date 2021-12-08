@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 * VS Code
 
 Участвовал в геймджемах, в последнем геймджеме занял 3 место. https://github.com/lex-cmd/RGcube
+
 https://github.com/TotalAbyssOfJam/sibgamejam
