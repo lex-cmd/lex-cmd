@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 Навыки:
 * С/С++
 * Unreal Engine (blueprints)
+* Базовые знания ООП
 * Git
 * Английский (чтение документации)
 
