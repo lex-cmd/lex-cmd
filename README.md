@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![fcarl's stats](https://badge42.herokuapp.com/api/stats/fcarl)
 
-Студент в Programming School 21 от Сбербанка.
+Учусь в Programming School 21 от Сбербанка.
 Огромное желание развиваться и работать разработчиком в геймдеве.
 Люблю игры, а еще больше делать их!
 
