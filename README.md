@@ -22,9 +22,9 @@ Working on ReMouse Games.
 Skills:
 * С/С++
 * Unreal Engine (blueprints)
-* Базовые знания ООП
+* Base OOP
 * Git
-* Английский (чтение документации)
+* English (Documentation only)
 * VS Code
 
 GameJam https://github.com/lex-cmd/RGcube
