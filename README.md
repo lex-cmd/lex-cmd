@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ![fcarl's stats](https://badge42.herokuapp.com/api/stats/fcarl)
 
-Учусь в Programming School 21 от Сбербанка.
-Огромное желание развиваться и работать разработчиком в геймдеве.
+Learning computer science in Programming School 21(ecole 42).
+Working on ReMouse Games.
 
-Навыки:
+Skills:
 * С/С++
 * Unreal Engine (blueprints)
 * Базовые знания ООП
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 * Английский (чтение документации)
 * VS Code
 
-Участвовал в геймджемах, в последнем геймджеме занял 3 место. https://github.com/lex-cmd/RGcube
+GameJam https://github.com/lex-cmd/RGcube
 
 https://github.com/TotalAbyssOfJam/sibgamejam
