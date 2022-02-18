@@ -20,6 +20,8 @@ Learning computer science in Programming School 21(ecole 42).
 Working on ReMouse Games.
 
 Skills:
+* C#
+* Unity
 * С/С++
 * Unreal Engine (blueprints)
 * Base OOP
