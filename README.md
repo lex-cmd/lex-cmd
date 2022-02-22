@@ -26,7 +26,7 @@ Skills:
 * Base OOP
 * Git
 * English (Documentation only)
-* VS Code
+* Unix
 
 GameJam https://github.com/lex-cmd/RGcube
 
