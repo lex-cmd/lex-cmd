@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![fcarl's stats](https://badge42.herokuapp.com/api/stats/fcarl)
+https://badge42.vercel.app/api/v2/cl1pz08ac000609l4qe3suiqv/stats?cursusId=21&coalitionId=97
 
 Learning computer science in Programming School 21(ecole 42).
 
