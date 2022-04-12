@@ -25,7 +25,7 @@ Skills:
 * Unity
 * С/С++
 * Unreal Engine (blueprints)
-* Base OOP
+* Base SOLID
 * Git
 * English (Documentation only)
 * Unix
