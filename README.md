@@ -30,6 +30,8 @@ Skills:
 * English (Documentation only)
 * Unix
 
-GameJam https://github.com/lex-cmd/RGcube
+Games:
+https://lex-cmd.itch.io/
+https://github.com/lex-cmd/RGcube
 
 https://github.com/TotalAbyssOfJam/sibgamejam
