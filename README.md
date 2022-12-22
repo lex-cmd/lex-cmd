@@ -19,15 +19,7 @@ Here are some ideas to get you started:
 [![fcarl's 42 stats](https://badge42.vercel.app/api/v2/cl1pz08ac000609l4qe3suiqv/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
 
 Learning computer science at Programming School 21(ecole 42).
-
-Skills:
-* C#
-* Unity
-* С/С++
-* Unreal Engine (blueprints)
-* SOLID
-* English (Documentation 100%, Speaking 20%)
-* Unix
+Level designer at Baykal Arts.
 
 Games:
 
