@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 Level designer at Baykal Arts.
 
+Portfolio: https://alexander-karikh.notion.site/39b81836d021406182bd8dd14f3567b1?v=e0dcb9e641a34ba99103418478053693&pvs=4
+
 Games:
 
 https://lex-cmd.itch.io/
