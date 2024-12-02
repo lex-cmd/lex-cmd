@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![fcarl's 42 stats](https://badge42.vercel.app/api/v2/cl1pz08ac000609l4qe3suiqv/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
 
-Level designer at Baykal Arts.
+Level designer at Mundfish.
 
 Portfolio: https://alexander-karikh.notion.site/39b81836d021406182bd8dd14f3567b1?v=e0dcb9e641a34ba99103418478053693&pvs=4
 
